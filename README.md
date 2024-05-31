@@ -1,0 +1,2 @@
+# Typing-Game
+Midterm Activity
